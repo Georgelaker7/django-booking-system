@@ -1,1 +1,1 @@
-web: gunicorn django-booking-system.wsgi
+web: gunicorn django_booking_system.wsgi
